@@ -1,0 +1,12 @@
+class,physical_value,unit,relative_intensity,source
+car,0.163,kgCO2e_per_km,0.73,DEFRA 2023 transport factors
+truck,0.82,kgCO2e_per_km,1.00,EPA/DEFRA heavy vehicle avg
+bus,0.108,kgCO2e_per_km,0.62,DEFRA 2023
+cow,117.1,kgCH4_per_year,0.95,IPCC 2019 livestock methane
+laptop,200,kgCO2e_per_item,0.45,OpenLCA electronics LCA
+cell phone,70,kgCO2e_per_item,0.38,Smartphone LCA studies
+bottle,0.05,kgCO2e_per_item,0.25,PET bottle lifecycle studies
+chair,10,kgCO2e_per_item,0.20,Furniture lifecycle avg
+person,low,relative_proxy,0.05,baseline reference
+bicycle,very_low,relative_proxy,0.03,transport literature
+__default__,unknown,relative_proxy,0.10,fallback
