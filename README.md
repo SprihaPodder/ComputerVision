@@ -218,23 +218,6 @@ Each project folder contains independent source code and assets.
 
 ---
 
-## Repository Structure
-
-ComputerVision/
-│
-├── RedPixelDetection/
-├── CentroidTracking/
-├── BalloonGame/
-├── RemotePainter/
-├── MotionDetection/
-├── InvisibilityCloak/
-├── VirtualPiano/
-├── DatasetViewer/
-├── GestureController/
-└── YOLO/
-
----
-
 ## Applications
 
 - Gesture-based interfaces
