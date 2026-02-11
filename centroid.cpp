@@ -98,6 +98,6 @@ int main(){
  
   // Closes all the frames
   destroyAllWindows();
-   
+  
   return 0;
 }
